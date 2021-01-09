@@ -1,0 +1,80 @@
+  Source.cpp
+D:\оэвм\laba1(VS_2019)\Source.cpp(1240,1): warning C4806:  '!=': unsafe operation: no value of type 'T' promoted to type 'int' can equal the given constant
+D:\оэвм\laba1(VS_2019)\Source.cpp(1240,1): warning C4806:         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(1240,1): warning C4806:         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(1240,1): warning C4806:             T=bool
+D:\оэвм\laba1(VS_2019)\Source.cpp(1240,1): warning C4806:         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(922): message :  see reference to function template instantiation 'T entering_number<bool>(T,int,int)' being compiled
+D:\оэвм\laba1(VS_2019)\Source.cpp(922): message :         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(922): message :         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(922): message :             T=bool
+D:\оэвм\laba1(VS_2019)\Source.cpp(922): message :         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(726,49): warning C4018:  '<': signed/unsigned mismatch
+D:\оэвм\laba1(VS_2019)\Source.cpp(924): message :  see reference to function template instantiation 'T input_group_bit<bool>(T,int)' being compiled
+D:\оэвм\laba1(VS_2019)\Source.cpp(924): message :         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(924): message :         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(924): message :             T=bool
+D:\оэвм\laba1(VS_2019)\Source.cpp(924): message :         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(733,51): warning C4018:  '<=': signed/unsigned mismatch
+D:\оэвм\laba1(VS_2019)\Source.cpp(758,77): warning C4018:  '<=': signed/unsigned mismatch
+D:\оэвм\laba1(VS_2019)\Source.cpp(765,80): warning C4018:  '<=': signed/unsigned mismatch
+D:\оэвм\laba1(VS_2019)\Source.cpp(678,7): warning C4101:  'bit': unreferenced local variable
+D:\оэвм\laba1(VS_2019)\Source.cpp(1034,1): warning C4305:  'return': truncation from 'int' to 'T'
+D:\оэвм\laba1(VS_2019)\Source.cpp(1034,1): warning C4305:         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(1034,1): warning C4305:         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(1034,1): warning C4305:             T=bool
+D:\оэвм\laba1(VS_2019)\Source.cpp(1034,1): warning C4305:         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(1221): message :  see reference to function template instantiation 'T check_range<T>(double,T,int,int)' being compiled
+D:\оэвм\laba1(VS_2019)\Source.cpp(1221): message :         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(1221): message :         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(1221): message :             T=bool
+D:\оэвм\laba1(VS_2019)\Source.cpp(1221): message :         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(922): message :  see reference to function template instantiation 'T entering_number<bool>(T,int,int)' being compiled
+D:\оэвм\laba1(VS_2019)\Source.cpp(922): message :         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(922): message :         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(922): message :             T=bool
+D:\оэвм\laba1(VS_2019)\Source.cpp(922): message :         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(1042,1): warning C4305:  'return': truncation from 'int' to 'T'
+D:\оэвм\laba1(VS_2019)\Source.cpp(1042,1): warning C4305:         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(1042,1): warning C4305:         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(1042,1): warning C4305:             T=bool
+D:\оэвм\laba1(VS_2019)\Source.cpp(1042,1): warning C4305:         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(345,7): warning C4101:  'ch': unreferenced local variable
+D:\оэвм\laba1(VS_2019)\Source.cpp(1236): message :  see reference to function template instantiation 'void output_bynary_system<T>(T)' being compiled
+D:\оэвм\laba1(VS_2019)\Source.cpp(1236): message :         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(1236): message :         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(1236): message :             T=bool
+D:\оэвм\laba1(VS_2019)\Source.cpp(1236): message :         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(575,11): warning C4018:  '<': signed/unsigned mismatch
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :  see reference to function template instantiation 'T swap_bites<T>(T,std::deque<int,std::allocator<_Ty>>,std::deque<_Ty,std::allocator<_Ty>>,int)' being compiled
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :             T=bool,
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :             _Ty=int
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(924): message :  see reference to function template instantiation 'T input_group_bit<bool>(T,int)' being compiled
+D:\оэвм\laba1(VS_2019)\Source.cpp(924): message :         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(924): message :         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(924): message :             T=bool
+D:\оэвм\laba1(VS_2019)\Source.cpp(924): message :         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(497,17): warning C4101:  'bit': unreferenced local variable
+D:\оэвм\laba1(VS_2019)\Source.cpp(665): message :  see reference to function template instantiation 'T assigning_bits_to_an_array<T>(T,int [])' being compiled
+D:\оэвм\laba1(VS_2019)\Source.cpp(665): message :         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(665): message :         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(665): message :             T=bool
+D:\оэвм\laba1(VS_2019)\Source.cpp(665): message :         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :  see reference to function template instantiation 'T swap_bites<T>(T,std::deque<int,std::allocator<_Ty>>,std::deque<_Ty,std::allocator<_Ty>>,int)' being compiled
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :         with
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :         [
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :             T=bool,
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :             _Ty=int
+D:\оэвм\laba1(VS_2019)\Source.cpp(915): message :         ]
+D:\оэвм\laba1(VS_2019)\Source.cpp(1435): warning C4715:  'entering_number<bool>': not all control paths return a value
+D:\оэвм\laba1(VS_2019)\Source.cpp(1435): warning C4715:  'entering_number<char>': not all control paths return a value
+D:\оэвм\laba1(VS_2019)\Source.cpp(1435): warning C4715:  'entering_number<short>': not all control paths return a value
+D:\оэвм\laba1(VS_2019)\Source.cpp(1435): warning C4715:  'entering_number<unsigned short>': not all control paths return a value
+D:\оэвм\laba1(VS_2019)\Source.cpp(1435): warning C4715:  'entering_number<int>': not all control paths return a value
+D:\оэвм\laba1(VS_2019)\Source.cpp(1435): warning C4715:  'entering_number<unsigned int>': not all control paths return a value
+D:\оэвм\laba1(VS_2019)\Source.cpp(1435): warning C4715:  'entering_number<float>': not all control paths return a value
+D:\оэвм\laba1(VS_2019)\Source.cpp(1435): warning C4715:  'entering_number<double>': not all control paths return a value
+  laba1.vcxproj -> D:\оэвм\laba1(VS_2019)\Debug\laba1.exe
